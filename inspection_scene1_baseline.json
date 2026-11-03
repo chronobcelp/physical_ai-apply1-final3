@@ -1,0 +1,68 @@
+[
+  {
+    "compartment": 0,
+    "recipe_class": 0,
+    "state": "OVERSIZE",
+    "items": [
+      {
+        "item_id": 4,
+        "true_class": 0
+      }
+    ]
+  },
+  {
+    "compartment": 1,
+    "recipe_class": 1,
+    "state": "CORRECT",
+    "items": [
+      {
+        "item_id": 1,
+        "true_class": 1
+      }
+    ]
+  },
+  {
+    "compartment": 2,
+    "recipe_class": 2,
+    "state": "WRONG_OR_OVERFULL",
+    "items": [
+      {
+        "item_id": 3,
+        "true_class": 3
+      }
+    ]
+  },
+  {
+    "compartment": 3,
+    "recipe_class": 3,
+    "state": "WRONG_OR_OVERFULL",
+    "items": [
+      {
+        "item_id": 8,
+        "true_class": 0
+      }
+    ]
+  },
+  {
+    "compartment": 4,
+    "recipe_class": 0,
+    "state": "WRONG_OR_OVERFULL",
+    "items": [
+      {
+        "item_id": 5,
+        "true_class": 4
+      }
+    ]
+  },
+  {
+    "compartment": 5,
+    "recipe_class": 1,
+    "state": "OVERSIZE",
+    "items": [
+      {
+        "item_id": 6,
+        "true_class": 1
+      }
+    ]
+  }
+]
